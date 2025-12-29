@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Large Tablets & Small Laptops */
 @media (max-width: 1200px) {}
 
@@ -23,7 +22,8 @@
     }
 
 
-=======
+}
+
 /* Large Tablets & Small Laptops */
 @media (max-width: 1200px) {}
 
@@ -48,5 +48,4 @@
     }
 
 
->>>>>>> fd6a0949d139f8f9f5ec634fee5f25cc7836cbca
 }
