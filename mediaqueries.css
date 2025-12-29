@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+/* Large Tablets & Small Laptops */
+@media (max-width: 1200px) {}
+
+/* Tablets */
+@media (max-width: 992px) {
+
+    /* Switch to hamburger menu */
+    #desktop-nav {
+        display: none;
+    }
+
+    #mobile-nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 2rem;
+        position: sticky;
+        height: 7vh;
+        top: 0;
+        z-index: 1000;
+        border-bottom: 0.1rem solid rgba(0, 0, 0, 0.3);
+    }
+
+
+=======
+/* Large Tablets & Small Laptops */
+@media (max-width: 1200px) {}
+
+/* Tablets */
+@media (max-width: 992px) {
+
+    /* Switch to hamburger menu */
+    #desktop-nav {
+        display: none;
+    }
+
+    #mobile-nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 2rem;
+        position: sticky;
+        height: 7vh;
+        top: 0;
+        z-index: 1000;
+        border-bottom: 0.1rem solid rgba(0, 0, 0, 0.3);
+    }
+
+
+>>>>>>> fd6a0949d139f8f9f5ec634fee5f25cc7836cbca
+}
